@@ -46,7 +46,6 @@ clear
 echo "What are you going to do.. Woken Soul?"
 
 
-# Of course I won't implement the shield phase (yet) for now just have fun with the 2nd phase (no minions lmao)
 function battle() {
 
     clear
