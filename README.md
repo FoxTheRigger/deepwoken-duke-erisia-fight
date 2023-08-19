@@ -1,5 +1,5 @@
 # IMPORTANT: RUN THIS SCRIPT WHILE LISTENING TO THIS https://www.youtube.com/watch?v=mwDpWBn_lZU
-
+## also lolcat is required for the extra drip
 ### Who is Duke Erisia?
 ### This green guy from Deepwoken
 
